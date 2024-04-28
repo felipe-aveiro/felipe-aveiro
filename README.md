@@ -37,7 +37,8 @@ Let's connect and embark on this journey of coding prowess and innovation togeth
   
 ### Languages and Tools:
 <p align="left">
-  
+
+  <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer noopener"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Overleaf_Logo.svg/800px-Overleaf_Logo.svg.png" alt="Overleaf" width="40" height="40"></a> &nbsp;
   <a href="https://miro.com/" target="_blank" rel="noreferrer noopener"> <img src="https://vectorwiki.com/images/cp1qJ__miro.svg" alt="Miro" width="40" height="40"></a> &nbsp;
   <a href="https://trello.com/" target="_blank" rel="noreferrer noopener"> <img src="https://vectorwiki.com/images/5XkbU__trello.svg" alt="Trello" width="40" height="40"></a> &nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"> </a> &nbsp;
@@ -47,5 +48,6 @@ Let's connect and embark on this journey of coding prowess and innovation togeth
   <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer noopener"> <img src="https://vectorwiki.com/images/IHdDb__solidworks-logo.svg" alt="SolidWorks" width="120" height="40"></a> &nbsp;
   <a href="https://www.autodesk.com/" target="_blank" rel="noreferrer noopener"> <img src="https://www.logo-designer.co/storage/2021/09/2021-autodesk-new-logo-design.png" alt="Autodesk" width="50" height="40"></a> &nbsp;
   <a href="https://www.ansys.com/" target="_blank" rel="noreferrer noopener"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/ANSYS_logo.png" alt="Ansys" width="120" height="40"></a> &nbsp;
-  <a href="https://energyplus.net/" target="_blank" rel="noreferrer noopener"> <img src="https://www.buildinggreen.com/sites/default/files/articles/Energyplus.gif" alt="EnergyPlus" width="63.6" height="42">
+  <a href="https://energyplus.net/" target="_blank" rel="noreferrer noopener"> <img src="https://www.buildinggreen.com/sites/default/files/articles/Energyplus.gif" alt="EnergyPlus" width="63.6" height="42"></a>
+  
 </p>
