@@ -46,6 +46,6 @@ Let's connect and embark on this journey of coding prowess and innovation togeth
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer noopener"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968389.png" alt="Visual Basic" width="40" height="40"></a> &nbsp;
   <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer noopener"> <img src="https://vectorwiki.com/images/IHdDb__solidworks-logo.svg" alt="SolidWorks" width="120" height="40"></a> &nbsp;
   <a href="https://www.autodesk.com/" target="_blank" rel="noreferrer noopener"> <img src="https://www.logo-designer.co/storage/2021/09/2021-autodesk-new-logo-design.png" alt="Autodesk" width="50" height="40"></a> &nbsp;
-  <a href="https://www.ansys.com/" target="_blank" rel="noreferrer noopener"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/ANSYS_logo.png" alt="ANSYS" width="120" height="40"></a> &nbsp;
-  <a href="https://energyplus.net/" target="_blank" rel="noreferrer noopener"> <img src="https://www.buildinggreen.com/sites/default/files/articles/Energyplus.gif" alt="EnergyPlus" width="79.5" height="52.5">
+  <a href="https://www.ansys.com/" target="_blank" rel="noreferrer noopener"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/ANSYS_logo.png" alt="Ansys" width="120" height="40"></a> &nbsp;
+  <a href="https://energyplus.net/" target="_blank" rel="noreferrer noopener"> <img src="https://www.buildinggreen.com/sites/default/files/articles/Energyplus.gif" alt="EnergyPlus" width="63.6" height="42">
 </p>
