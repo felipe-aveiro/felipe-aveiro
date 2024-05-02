@@ -38,7 +38,7 @@ Let's connect and embark on this journey of coding prowess and innovation togeth
 ### Languages and Tools:
 <p align="left">
 
-  <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer noopener"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Overleaf_Logo.svg/800px-Overleaf_Logo.svg.png" alt="Overleaf" width="40" height="40"></a> &nbsp;
+  <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer noopener"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Overleaf_Logo.svg/800px-Overleaf_Logo.svg.png" alt="Overleaf | LaTeX" width="40" height="40"></a> &nbsp;
   <a href="https://miro.com/" target="_blank" rel="noreferrer noopener"> <img src="https://vectorwiki.com/images/cp1qJ__miro.svg" alt="Miro" width="40" height="40"></a> &nbsp;
   <a href="https://trello.com/" target="_blank" rel="noreferrer noopener"> <img src="https://vectorwiki.com/images/5XkbU__trello.svg" alt="Trello" width="40" height="40"></a> &nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"> </a> &nbsp;
