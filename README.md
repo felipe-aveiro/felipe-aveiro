@@ -31,23 +31,24 @@ Let's connect and embark on this journey of coding prowess and innovation togeth
 
 ### Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/felipe-tassari-aveiro-3aa142209/" target="_blank">
+<a href="https://www.linkedin.com/in/felipe--aveiro/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Felipe Tassari Aveiro's LinkedIn profile" height="30" width="40">
 </a>
   
 ### Languages and Tools:
 <p align="left">
 
-  <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer noopener"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Overleaf_Logo.svg/800px-Overleaf_Logo.svg.png" alt="Overleaf | LaTeX" width="40" height="40"></a> &nbsp;
-  <a href="https://miro.com/" target="_blank" rel="noreferrer noopener"> <img src="https://vectorwiki.com/images/cp1qJ__miro.svg" alt="Miro" width="40" height="40"></a> &nbsp;
-  <a href="https://trello.com/" target="_blank" rel="noreferrer noopener"> <img src="https://vectorwiki.com/images/5XkbU__trello.svg" alt="Trello" width="40" height="40"></a> &nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"> </a> &nbsp;
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer noopener"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"></a> &nbsp;
+  <a href="https://www.mathworks.com/products/simulink.html" target="_blank" rel="noreferrer noopener"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" alt="Simulink" width="40" height="40"></a> &nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"></a> &nbsp;
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer noopener"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"></a> &nbsp;
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer noopener"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968389.png" alt="Visual Basic" width="40" height="40"></a> &nbsp;
+  <a href="https://www.sap.com/products/erp/s4hana.html" target="_blank" rel="noreferrer noopener"> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/02/sap_s_4_hana_logo_freelogovectors.net_.png" alt="SAP S/4HANA" width="176" height="32"></a> &nbsp;
   <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer noopener"> <img src="https://vectorwiki.com/images/IHdDb__solidworks-logo.svg" alt="SolidWorks" width="120" height="40"></a> &nbsp;
   <a href="https://www.autodesk.com/" target="_blank" rel="noreferrer noopener"> <img src="https://www.logo-designer.co/storage/2021/09/2021-autodesk-new-logo-design.png" alt="Autodesk" width="50" height="40"></a> &nbsp;
   <a href="https://www.ansys.com/" target="_blank" rel="noreferrer noopener"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/ANSYS_logo.png" alt="Ansys" width="120" height="40"></a> &nbsp;
-  <a href="https://energyplus.net/" target="_blank" rel="noreferrer noopener"> <img src="https://www.buildinggreen.com/sites/default/files/articles/Energyplus.gif" alt="EnergyPlus" width="63.6" height="42"></a>
+  <a href="https://energyplus.net/" target="_blank" rel="noreferrer noopener"> <img src="https://energyplus.readthedocs.io/en/v23.2.0/_static/favicon_white_plus.png" alt="EnergyPlus" width="40" height="40"></a> &nbsp;
+  <a href="https://info.cype.com/en/" target="_blank" rel="noreferrer noopener"> <img src="https://bimsoft.lv/wp-content/uploads/2023/03/CYPE_plano.png" alt="CYPE" width="50" height="40"></a>
   
 </p>
