@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 As a **Mechanical Engineering** enthusiast, I am fueled by a relentless drive for knowledge and a deep-seated passion for tackling challenges in the realm of Energy & Environment with a specialized focus on sustainable solutions.
+🎓 I’m a Mechanical Engineering enthusiast with a strong interest in control systems, data-driven technologies, and sustainable innovation. My academic and personal journey has been shaped by a constant drive to understand how engineering can contribute to solving real-world challenges — especially in the fields of energy and the environment.
 
-🌍 Above all, my motivation springs from a sincere aspiration to catalyze positive change. I firmly believe that success isn't solely about personal achievements but also about fostering a sustainable future for our planet and its inhabitants. I'm keen to collaborate with fellow programmers and organizations who share this vision, working together to develop innovative solutions that leave a lasting imprint on our global community.
+💼 I’m passionate about bridging theory and practice, and I thrive in environments that challenge me to learn, grow, and collaborate with others. With each opportunity, I seek not only technical development but also purpose and impact.
+
+🌍 What truly drives me is the possibility of contributing to a more sustainable and equitable world through engineering and innovation. I believe that meaningful progress happens when we combine knowledge, creativity, and values.
 
 Let's connect and embark on this journey of coding prowess and innovation together! 🚀
 
